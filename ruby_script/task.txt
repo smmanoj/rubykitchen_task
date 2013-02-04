@@ -1,0 +1,10 @@
+The JSON file attached has contains the tweet on Ruby on Rails. 
+
+The entire task is divided into three sub task, you are expected to compete at least one of the provided task - completion of all them would fetch you more points with the team... 
+
+1) Create a ruby script to control the number of time a word is being repeated in the text of each tweet
+
+2) Make a webpage (using Ruby on Rails) to display these tweets, you may create the web page based on your imagination - to pass this test the web page should atleast be a clone design of twitter
+
+3) Create a Tag Cloud ( Backend Ruby on Rails) based on the words in text of each of the tweet 
+

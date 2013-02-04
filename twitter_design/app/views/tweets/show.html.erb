@@ -1,0 +1,10 @@
+<h3>Tweet</h3>
+<div class="well well-small">
+    <blockquote>
+      <dl class="dl-horizontal">
+            <dt><%= image_tag("#{@tweet_param["profile_image_url"]}")%></dt>
+            <dd><strong><i class="icon-user"><%= @tweet_param["from_user_name"] %></i></strong>
+              <dd><%= @tweet_param["text"] %></dd>
+          </dl>
+     </blockquote>
+  </div>
